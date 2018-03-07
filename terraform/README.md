@@ -1,6 +1,6 @@
 # Terraform provider
 
-DOCS
+## DOCS
 
 - [lambda_function](https://www.terraform.io/docs/providers/aws/r/lambda_function.html)
 - [lambda_permission](https://www.terraform.io/docs/providers/aws/r/lambda_permission.html)
