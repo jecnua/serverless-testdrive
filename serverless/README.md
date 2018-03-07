@@ -1,4 +1,4 @@
-# Create new serverless
+# Serverless provider
 
 To create the boilerplate:
 

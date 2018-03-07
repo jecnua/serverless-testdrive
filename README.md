@@ -1,4 +1,4 @@
-# Serverless
+# AWS lambda
 
 Some tests with serverless on aws lambda
 
